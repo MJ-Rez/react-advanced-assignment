@@ -1,0 +1,15 @@
+.CardofAntd {
+  margin: 1rem !important;
+}
+.card_info {
+  /* padding: 1.5rem; */
+}
+.card_contact_info {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.card_contact_info p {
+  margin: 0 0 0 0.7rem;
+}
